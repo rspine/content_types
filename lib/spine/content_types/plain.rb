@@ -4,15 +4,15 @@ module Spine
       extend self
 
       def load(data, options={})
-        data.to_s
+        data
       end
 
       def dump(data, options={})
-        data.to_s
+        data
       end
 
       def mime_type
-        'text/plain'
+        ''
       end
     end
   end
