@@ -1,6 +1,6 @@
 # Spine::ContentTypes
 
-[![Gem Version](http://img.shields.io/gem/v/spine-content_types.svg)][gem]
+[![Gem Version](https://badge.fury.io/rb/spine-content_types.svg)](http://badge.fury.io/rb/spine-content_types)
 [![Dependency Status](https://gemnasium.com/rspine/content_types.svg)](https://gemnasium.com/rspine/content_types)
 [![Code Climate](https://codeclimate.com/github/rspine/content_types/badges/gpa.svg)](https://codeclimate.com/github/rspine/content_types)
 
