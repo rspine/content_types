@@ -1,5 +1,7 @@
 # Spine::ContentTypes
 
+[![Code Climate](https://codeclimate.com/github/rspine/content_types/badges/gpa.svg)](https://codeclimate.com/github/rspine/content_types)
+
 Provides encoding and decoding to content types. Supported types are plain text, HTML and JSON.
 
 ## Installation
