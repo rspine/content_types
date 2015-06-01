@@ -9,7 +9,7 @@ module Spine
         MultiJson.load(data, default_load_options.merge(options))
       end
 
-      def dump(data, options)
+      def dump(data, options = {})
         MultiJson.dump(data, default_dump_options.merge(options))
       end
 
